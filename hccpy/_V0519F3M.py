@@ -186,7 +186,7 @@ def _infant(cc_lst, age):
                     "HHS_HCC129", "HHS_HCC130", "HHS_HCC137",
                     "HHS_HCC158", "HHS_HCC183", "HHS_HCC184",
                     "HHS_HCC251"],
-                "IHCC_Severity4": ["HHS_HCC002", "HHS_HCC009"
+                "IHCC_Severity4": ["HHS_HCC002", "HHS_HCC009",
                     "HHS_HCC026", "HHS_HCC064", "HHS_HCC067",
                     "HHS_HCC068", "HHS_HCC073", "HHS_HCC106", 
                     "HHS_HCC107", "HHS_HCC111", "HHS_HCC112",
